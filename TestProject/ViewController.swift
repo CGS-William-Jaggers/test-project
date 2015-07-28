@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     func amazingFeature() {
         println("this is amazing")
     }
-    // Line of code that does noting
+    // Line of code that does nothing
     var gday = "hello"
 }
 
