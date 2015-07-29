@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     func amazingFeature() {
         println("this is amazing")
     }
+<<<<<<< HEAD
     // New comments
     func functionOne() {
         
@@ -25,6 +26,9 @@ class ViewController: UIViewController {
     }
     
     var car = ["Mini","Cooper S"]
+=======
+    var incredible = 10000000000
+>>>>>>> bugfix-z
     // Line of code that does nothing
     var gday = "hello"
 }
