@@ -18,6 +18,11 @@ class ViewController: UIViewController {
     func amazingFeature() {
         println("this is amazing")
     }
+    // New comments
+    func functionOne() {
+        
+        println("Hello")
+    }
     // Line of code that does nothing
     var gday = "hello"
 }
