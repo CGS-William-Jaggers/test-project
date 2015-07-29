@@ -23,6 +23,8 @@ class ViewController: UIViewController {
         
         println("Hello")
     }
+    
+    var car = ["Mini","Cooper S"]
     // Line of code that does nothing
     var gday = "hello"
 }
