@@ -31,7 +31,7 @@ class ViewController: UIViewController {
 
     // Line of code that does nothing
     var gday = "hello"
+var tenHundredOneThousandOneHundredTen = 1000
     
-    var oneThousand = 1000
 }
 
