@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     func amazingFeature() {
         println("this is amazing")
     }
+    
     // New comments
     func functionOne() {
         
@@ -31,6 +32,6 @@ class ViewController: UIViewController {
     // Line of code that does nothing
     var gday = "hello"
     
-    var absdh = 1000
+    var oneThousand = 1000
 }
 
